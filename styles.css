@@ -1,0 +1,18 @@
+h1{
+  color: #3C4048;
+}
+h3{
+  color: #3C4048;
+}
+body{
+  background-color: #B2B2B2;
+}
+hr{
+  width: 5%;
+  height: 0px;
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color:  #3C4048;
+  background-color: #B2B2B2;
+border-width: 7px;
+}
